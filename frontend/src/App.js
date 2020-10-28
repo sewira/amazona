@@ -1,6 +1,5 @@
 import { BrowserRouter, Route } from "react-router-dom";
-import Product from "./components/Product";
-import data from "./data";
+
 import HomeScreen from "./screens/HomeScreen";
 import ProductScreen from "./screens/ProductScreen";
 
